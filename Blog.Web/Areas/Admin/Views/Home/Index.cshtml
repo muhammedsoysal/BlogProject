@@ -1,0 +1,21 @@
+﻿@model List<ArticleDto>
+@{
+    Layout = null;
+}
+
+
+<h1>Admin Area</h1>
+@foreach (var article in Model)
+{
+	<h1>@article.Title</h1>
+	<br />
+	<h1>@article.Content</h1>
+	<br />
+	<h1>@article.ViewCount</h1>
+	<br />
+	<h3>@article.CreatedDate</h3>
+	<br />
+	<h3>@article.CreatedBy</h3>
+	<br />
+	<br />
+}

@@ -1,0 +1,16 @@
+﻿@model List<Blog.Entity.Dtos.Articles.ArticleDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Default Area</h1>
+
+
+@foreach (var article in Model)
+{
+	<h1>@article.Title</h1>
+	<br />
+	<h3>@article.Content</h3>
+	<br />
+	<br />
+}
