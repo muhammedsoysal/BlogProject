@@ -1,0 +1,15 @@
+Asp.Net Core 5.0 Projesi Bu Projede Asp.Net Core 5.0 kapsamında geliştirilmiştir. Projede Dinamik MyCV Blog Projesi yapılmıştır.
+- C#
+- Sql Server
+- AspNet Core 5.0
+- Entity Framework Core
+- Identity
+- N-Tier Architechture
+- Repository Design Pattern
+- Fluent Validation
+- Unit of Work
+- Restful Api
+- CodeFirst
+- Charts
+- Reporting
+- Html-Css-Bootstrap
