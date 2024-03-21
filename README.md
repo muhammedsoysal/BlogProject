@@ -1,4 +1,7 @@
-Bu Projede Asp.Net Core 5.0 kapsamında geliştirilmiştir. Projede Dinamik MyCV Blog Projesi yapılmıştır.
+Asp.Net Core ile N-tier Mimari ve Repository Design Pattern Kullanılarak Geliştirilmiş Web Blog Projesi
+
+
+## Teknolojiler ve Araçlar
 - C#
 - Sql Server
 - AspNet Core 5.0
