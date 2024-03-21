@@ -1,4 +1,4 @@
-Asp.Net Core 5.0 Projesi Bu Projede Asp.Net Core 5.0 kapsamında geliştirilmiştir. Projede Dinamik MyCV Blog Projesi yapılmıştır.
+Bu Projede Asp.Net Core 5.0 kapsamında geliştirilmiştir. Projede Dinamik MyCV Blog Projesi yapılmıştır.
 - C#
 - Sql Server
 - AspNet Core 5.0
